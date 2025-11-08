@@ -8,11 +8,12 @@
 
 ## 🔥 Projekty (wybrane)
 
-1. **Age & Gender Detection (PyTorch)** — klasyfikacja wieku i płci + dashboard/Demo
-2. **Drone Vehicle Detection (YOLOv8)** — detekcja + raport JSON + wideo z bounding boxami
-3. **Object Tracking (DeepSORT/ByteTrack)** — ID trajektorii + CSV (x,y,t)
-4. **MLOps Age-Gender** — FastAPI + Docker + MLflow + CI/CD
-5. **ComfyUI Generative Suite** — portrety (LoRA `cris`), tapety 4K (Flux/SD), prompt log
+1. 🧠 Emotion Detector — Real-time facial emotion recognition using OpenAI CLIP and MediaPipe FaceMesh, running directly on webcam feed with OpenCV overlay.
+2. 🚁 Drone Quality Assessment — AI-based frame analysis tool that scores and ranks drone footage using deep learning image-quality metrics.
+3. 📊 Road Accident Dashboard — Interactive data analytics dashboard built in Plotly Dash for visualizing and exploring Polish road accident statistics.
+4. 🗂️ To-Do List (React) — Lightweight productivity web app with live task management, smooth UI, and persistent local storage.
+5. 💼 Interactive CV (React + Tailwind) — Bilingual personal portfolio site with downloadable CV, responsive layout, and clean, professional design.
+6. **ComfyUI Generative Suite** — portrety (LoRA `cris`), tapety 4K (Flux/SD), prompt log
 
 ---
 
@@ -22,12 +23,6 @@
 * **GenAI:** ComfyUI, LoRA, (opcjonalnie) diffusers
 * **MLOps:** FastAPI, Docker, MLflow, DVC, GitHub Actions
 * **Data/Apps:** pandas, Plotly Dash/Streamlit
-
-## 📈 Statystyki (opcjonalne)
-
-> Wstaw odznaki/build statusy i ewentualnie GH-stats, jeśli chcesz.
-
----
 
 ## 📬 Kontakt
 
