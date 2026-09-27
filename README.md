@@ -1,29 +1,96 @@
-# Krzysztof Broniszewski — AI Engineer (Generative + Vision + MLOps)
+# Krzysztof Broniszewski — AI / Machine Learning / Computer Vision Engineer
 
-**Specjalizacja:** Drone & Vision AI • Generative AI (ComfyUI, Flux/SD) • MLOps (FastAPI, Docker, MLflow)
+**Focus:** Computer Vision • Deep Learning • Generative AI • RAG / LLM • AI Applications
 
-[LinkedIn](https://www.linkedin.com/in/krzysztof-b-602a45181/?originalSubdomain=pl) • [CV (React + Tailwind)](https://krzysztof-broniszewski.github.io/krzysztof-cv/) • [E-mail](mailto:k.broniszewski@gmail.com)
+I build practical AI solutions — from data preparation and model training to inference pipelines, APIs and interactive applications.
 
----
-
-## 🔥 Projekty (wybrane)
-
-1. 🧠 Emotion Detector — Real-time facial emotion recognition using OpenAI CLIP and MediaPipe FaceMesh, running directly on webcam feed with OpenCV overlay.
-2. 🚁 Drone Quality Assessment — AI-based frame analysis tool that scores and ranks drone footage using deep learning image-quality metrics.
-3. 📊 Road Accident Dashboard — Interactive data analytics dashboard built in Plotly Dash for visualizing and exploring Polish road accident statistics.
-4. 🗂️ To-Do List (React) — Lightweight productivity web app with live task management, smooth UI, and persistent local storage.
-5. 💼 Interactive CV (React + Tailwind) — Bilingual personal portfolio site with downloadable CV, responsive layout, and clean, professional design.
-6. **ComfyUI Generative Suite** — portrety (LoRA `cris`), tapety 4K (Flux/SD), prompt log
+[LinkedIn](https://www.linkedin.com/in/krzysztof-b-602a45181/) • [Portfolio / CV](https://krzysztof-broniszewski.github.io/krzysztof-cv/) • [E-mail](mailto:k.broniszewski@gmail.com)
 
 ---
 
-## 🧰 Stack
+## 🚀 Featured Projects
 
-* **ML/DL:** PyTorch, torchvision, ultralytics/YOLO, OpenCV, scikit-learn
-* **GenAI:** ComfyUI, LoRA, (opcjonalnie) diffusers
-* **MLOps:** FastAPI, Docker, MLflow, DVC, GitHub Actions
-* **Data/Apps:** pandas, Plotly Dash/Streamlit
+### 🧠 RAV4 RAG Assistant
+End-to-end RAG assistant for answering technical questions based on Toyota RAV4 documentation.
 
-## 📬 Kontakt
+**Pipeline:** PDF processing → chunking → E5 embeddings → FAISS retrieval → BGE reranking → Bielik 11B → FastAPI → Web UI
 
-* Współpraca komercyjna / freelance: napisz na maila lub LinkedIn.
+**Tech:** Python • RAG • E5 Embeddings • FAISS • BGE Reranker • Bielik 11B • Ollama • FastAPI
+
+[GitHub Repository](https://github.com/Krzysztof-Broniszewski/rav4-rag-assistant)
+
+### 🙂 Face Emotion Recognition
+Deep Learning / Computer Vision project for facial emotion recognition using ResNet18 and transfer learning.
+
+**Tech:** Python • PyTorch • OpenCV • ResNet18
+
+[GitHub Repository](https://github.com/Krzysztof-Broniszewski/face-emotion-detection-best-ResNet18)
+
+### 🚁 Drone Image Quality Assessment
+Deep Learning project for automatic quality assessment and selection of drone imagery.
+
+**Focus:** Computer Vision • Deep Learning • Image Quality Assessment
+
+[GitHub Repository](https://github.com/Krzysztof-Broniszewski/drone-quality-assessment)
+
+### 📊 Road Accident Dashboard
+Interactive dashboard for exploring Polish road accident data from 2004–2023.
+
+**Tech:** Python • Pandas • Plotly • Dash
+
+[GitHub Repository](https://github.com/Krzysztof-Broniszewski/plotly-dash)
+
+### 🏠 California Housing — Machine Learning
+Regression project covering data preprocessing, feature analysis, model training, comparison and evaluation.
+
+**Tech:** Python • Pandas • scikit-learn
+
+[GitHub Repository](https://github.com/Krzysztof-Broniszewski/california-housing-ml)
+
+---
+
+## 🎨 Generative AI
+
+Hands-on experience with image and video generation workflows:
+
+**ComfyUI • FLUX • Stable Diffusion / SDXL • ControlNet • LoRA • IP-Adapter • Inpainting • Upscaling • WAN Video**
+
+I design and modify custom ComfyUI workflows for image generation, image editing and AI video experiments.
+
+---
+
+## 🧰 Tech Stack
+
+**Programming:** Python • SQL
+
+**Machine Learning:** scikit-learn • classification • regression • preprocessing • feature engineering • model evaluation
+
+**Deep Learning:** PyTorch • TensorFlow/Keras • CNN • transfer learning
+
+**Computer Vision:** OpenCV • YOLO • MediaPipe • image processing
+
+**LLM / RAG:** embeddings • semantic search • FAISS • reranking • Ollama • Bielik • FastAPI
+
+**Generative AI:** ComfyUI • FLUX • Stable Diffusion / SDXL • ControlNet • LoRA • IP-Adapter • WAN Video
+
+**Data:** Pandas • NumPy • Matplotlib • Plotly • PostgreSQL • BigQuery
+
+**Tools:** Git • GitHub • Docker • Jupyter Notebook • Google Colab
+
+---
+
+## 🎯 Currently Working On
+
+- Building and improving end-to-end AI applications
+- Developing RAG / LLM systems
+- Expanding my Computer Vision portfolio
+- Building a YOLO-based Computer Vision project
+
+---
+
+## 📬 Contact
+
+I'm currently open to opportunities in **AI / Machine Learning / Computer Vision / Generative AI**.
+
+📧 k.broniszewski@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/krzysztof-b-602a45181/)
